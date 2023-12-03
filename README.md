@@ -240,6 +240,7 @@ Open your HTML file in a web browser and change the orientation of your device t
 
 # AIM:
 To use media queries to adjust typography (like font size and line spacing) on a website to improve readability across different device sizes, from mobile phones to large desktop monitors. Include a CSS code snippet in your explanation.
+# DESIGN PROCEDURE:
 ## STEP 1:
 Identify the HTML elements you want to style. In your case, it’s the div and li elements.
 ## STEP 2:
