@@ -309,6 +309,7 @@ Test your styles.
 
 # AIM:
 To use a media query to change the styling of a webpage when it is printed, such as changing the background to white and hiding non-essential elements. Provide a CSS example.
+# DESIGN PROCEDURE:
 
 ## STEP 1:
 Identify the HTML elements you want to style. In your case, it’s the div and li elements.
